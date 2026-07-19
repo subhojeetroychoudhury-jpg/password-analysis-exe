@@ -1,10 +1,11 @@
 # 🔐 Password Strength Checker
 
-Python-based password strength checker that helps users create secure passwords by analyzing password complexity, detecting common passwords, and estimating the time required to crack the password.
+A beginner-friendly Python project that checks whether a password is weak, moderate, strong, or very strong. 
+It also estimates the time required to crack the password and identifies common passwords which are used 
 
 
 ## language Used
-- Python iddle 
+- Python idle
 
 ## Files
 
