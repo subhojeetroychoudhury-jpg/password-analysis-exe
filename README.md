@@ -4,13 +4,13 @@ A simple Python program that checks the strength of a password based on its leng
 
 
 ## 🛠️ Built With
-- Python 3
+- Python idle
 
 ## 📁 Project Structure
 
 ```
 Password-Strength-Checker/
-│── yt.py
+│── github1.py
 └── README.md
 ```
 
@@ -19,9 +19,6 @@ Password-Strength-Checker/
 1. Clone or download this repository.
 2. Open a terminal in the project folder.
 3. Run the program:
-```bash
-python yt.py
-```
 4. Enter a password to check its strength.
 5. Type `exit` to close the program.
 
