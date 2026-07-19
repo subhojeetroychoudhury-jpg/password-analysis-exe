@@ -1,29 +1,26 @@
-# 🔐 Password Analysis Tool
+# 🔐 Password Analysis exe
 
-A simple **Python-based Password Analysis Tool** that analyzes passwords against a list of commonly used passwords. This project demonstrates basic password security concepts and helps identify weak passwords for educational purposes.
+## Overview
 
-## 📌 Features
-
-* Check whether a password appears in a list of common passwords.
-* Identify weak passwords.
-* Suitable for learning basic cybersecurity and Python programming concepts.
-
-## 🛠️ Built With
-
-* **Language:** Python 3
-* **IDE:** Python IDLE
-
-## 📂 Project Structure
-
-```text
-password-analysis/
-│── main.py               # Main Python program
-```
-
-## 📖 How It Works
-
-1. The user enters a password.
-2. The program compares the password against a wordlist of commonly used passwords.
-3. If the password is found, it is marked as **Weak**.
+This is a simple Python program that checks the strength of a password. It identifies common passwords, analyzes password complexity, and estimates how long it would take to crack the password using a brute-force attack estimate.
 
 
+## language and libary Used
+
+* Python 3
+* Python IDLE
+* Built-in `string` module
+
+## How to Run
+
+1. Open the project in **Python IDLE**.
+2. Run the `main.py` file (Press **F5**).
+3. Enter a password when prompted.
+4. Type `exit` to close the program.
+
+
+
+
+## Disclaimer
+
+This project is for educational purposes only. The crack time shown is only an estimate and should not be considered an accurate measure of real-world password security.
