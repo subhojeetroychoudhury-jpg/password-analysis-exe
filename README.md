@@ -1,26 +1,27 @@
-# 🔐 Password Analysis exe
+# 🔐 Password Strength Checker
 
-## Overview
-
-This is a simple Python program that checks the strength of a password. It identifies common passwords, analyzes password complexity, and estimates how long it would take to crack the password using a brute-force attack estimate.
+A simple Python program that checks the strength of a password based on its length and character types. It also detects common passwords and estimates how long the password would take to crack.
 
 
-## language and libary Used
+## 🛠️ Built With
+- Python 3
 
-* Python 3
-* Python IDLE
-* Built-in `string` module
+## 📁 Project Structure
 
-## How to Run
+```
+Password-Strength-Checker/
+│── yt.py
+└── README.md
+```
 
-1. Open the project in **Python IDLE**.
-2. Run the `main.py` file (Press **F5**).
-3. Enter a password when prompted.
-4. Type `exit` to close the program.
+## 🚀 How to Run
 
+1. Clone or download this repository.
+2. Open a terminal in the project folder.
+3. Run the program:
+```bash
+python yt.py
+```
+4. Enter a password to check its strength.
+5. Type `exit` to close the program.
 
-
-
-## Disclaimer
-
-This project is for educational purposes only. The crack time shown is only an estimate and should not be considered an accurate measure of real-world password security.
